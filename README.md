@@ -1,5 +1,11 @@
-## Oi! Eu sou a Ariane Ueti!
+## Oi! Eu sou a Ariane Ueti! 👋
  <div>
+ 🎓 Faculdade de Artes Visuais Multimídia, Curso Profissionalizante em Fotografia Digital.<br>
+ 💜 Turma 6 { reprograma } Front End.<br>
+ 💡 Tenho conhecimento em HTML5, CSS3, JavaScript, React.<br>
+ 🚀 Atualmente Pessoa Estudante da Turma 14 [Bis] na Trybe 💚.<br>
+ 🔎 Em busca de uma oportunidade para consolidar meus conhecimentos e poder trazer mais mulheres para área.<br>
+ <br>
   <a href="https://github.com/juujb">
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=uetiari&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uetiari&layout=compact&langs_count=16&theme=monokai"/>
