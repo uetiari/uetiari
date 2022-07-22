@@ -7,8 +7,8 @@
  🔎 Em busca de uma oportunidade na área de Desenvolvimento para consolidar meus conhecimentos e poder trazer mais mulheres para área.<br>
  <br>
   <a href="https://github.com/uetiari">
-   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=uetiari&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uetiari&layout=compact&langs_count=16&theme=monokai"/>
+   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=uetiari&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uetiari&layout=compact&langs_count=16&theme=buefy"/>
   </a>
 </div>
 <div>
