@@ -4,7 +4,7 @@
  💜 Turma 6 { reprograma } Front End.<br>
  💡 Tenho conhecimento em HTML5, CSS3, JavaScript, React, NodeJs, Docker, MySQL.<br>
  🚀 Atualmente Pessoa Estudante da Turma 17 na Trybe 💚.<br>
- 🔎 Em busca de uma oportunidade na área de Desenvolvimento para consolidar meus conhecimentos e poder trazer mais mulheres para área.<br>
+ 🔎 Em busca de uma oportunidade na área de Desenvolvimento para consolidar meus conhecimentos, para que futuramente, eu possa ingressar na área de Programação de Games e poder trazer mais mulheres para área.<br>
  <br>
   <a href="https://github.com/uetiari">
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=uetiari&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
