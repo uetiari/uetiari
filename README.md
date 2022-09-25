@@ -2,7 +2,7 @@
  <div>
  🎓 Faculdade de Artes Visuais Multimídia, Curso Profissionalizante em Fotografia Digital.<br>
  💜 Turma 6 { reprograma } Front End.<br>
- 💡 Tenho conhecimento em HTML5, CSS3, JavaScript, React, NodeJs, Docker, MySQL.<br>
+ 💡 Tenho conhecimento em HTML5, CSS3, JavaScript, React, NodeJs, Docker, MySQL, MongoDB, entre outras.<br>
  🚀 Atualmente Pessoa Estudante da Turma 17 na Trybe 💚.<br>
  🔎 Em busca de uma oportunidade na área de Desenvolvimento para consolidar meus conhecimentos, para que futuramente, eu possa ingressar na área de Programação de Games e poder trazer mais mulheres para área.<br>
  <br>
